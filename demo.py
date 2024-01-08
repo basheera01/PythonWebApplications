@@ -3,7 +3,7 @@ st.set_page_config(page_title='Mounts')
 st.header("Highest Peak Mounts")
 col1,col2=st.columns(2)
 with col1:
-  st.image("mount.gif",width=800,use_column_width=True)
+  st.image("mount.gif",width=1000,use_column_width=True)
 with col1:
   st.subheader("Everest")
   st.image("everest.jpg",caption="Mount Everest",width=300,use_column_width=True)
