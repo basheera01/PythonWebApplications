@@ -5,7 +5,7 @@ col1,col2=st.columns(2)
 with col1:
   st.image("mount.gif",width=100,use_column_width=True)
 with col2:
-  st.write("Climb High...The mountains echo a silent call, an invitation to challenge your limits and embrace the untamed. Feel the pull of their majestic peaks, urging you to ascend and discover your inner strength. In the embrace of rugged landscapes, find solace, courage, and the thrill of conquering heights that mirror your aspirations. Hear the mountains whisper tales of resilience, echoing the triumph of those who dared to climb. Answer their call, for in the climb, you may discover not just summits but the untapped reservoirs of your own potential.")
+  st.write("Climb High...The mountains echo a silent call, an invitation to challenge your limits and embrace the untamed. Feel the pull of their majestic peaks, urging you to ascend and discover your inner strength. In the embrace of rugged landscapes, find solace, courage, and the thrill of conquering heights that mirror your aspirations. Hear the mountains whisper tales of resilience, echoing the triumph of those who dared to climb.")
 with col1:
   st.subheader("Everest")
   st.image("everest.jpg",caption="Mount Everest",width=300,use_column_width=True)
